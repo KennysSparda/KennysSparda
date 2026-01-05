@@ -1,8 +1,7 @@
 <h1 align="center">Olá! Eu sou o Kenny 👋</h1>
 
-<p align="center">
-Assistente de Informática | Líder do CPD (filial) | JS/Node, PHP & Shell em projetos internos (Fullstack em formação)<br/>
-Linux lover • automações de TI • dashboards e inventário • mídia/streaming no home-lab
+<p align="center">Desenvolvedor JS/Node, Python, PHP & Shell (Fullstack em formação)<br/>
+Linux Expert • automações de TI • dashboards e inventário • mídia/streaming
 </p>
 
 <div align="center">
