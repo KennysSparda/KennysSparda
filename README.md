@@ -6,9 +6,13 @@ Linux Expert • automações de TI • dashboards e inventário • mídia/stre
 
 <div align="center">
   <a href="https://github.com/kennyssparda">
-    <img height="180em" src="https://herokuapp.com" />
+    <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api?username=kennyssparda&show_icons=true&theme=radical&locale=pt-br&hide=issues" />
+  </a>
+  <a href="https://github.com/kennyssparda">
+    <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kennyssparda&layout=compact&locale=pt-br&theme=radical&hide=TeX&exclude_repo=YtbToMP3" />
   </a>
 </div>
+
 
 ---
 
