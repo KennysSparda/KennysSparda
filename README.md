@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Kenny 👋</h1>
 
-<p align="center">Desenvolvedor JS/Node, Python, PHP & Shell (Fullstack em formação)<br/>
-Linux Expert • automações de TI • dashboards e inventário • mídia/streaming
+<p align="center">Desenvolvedor Fullstack (JS/Node, Python, PHP) & Analista de Suporte<br/>
+Linux Expert • Integrações de Sistemas • Automações • NF-e/Tributações Automotivas
 </p>
 
 <div align="center">
@@ -9,24 +9,26 @@ Linux Expert • automações de TI • dashboards e inventário • mídia/stre
     <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api?username=kennyssparda&show_icons=true&theme=radical&locale=pt-br&hide=issues" />
   </a>
   <a href="https://github.com/kennyssparda">
-    <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kennyssparda&layout=compact&locale=pt-br&theme=radical&hide=TeX&exclude_repo=YtbToMP3" />
+    <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=kennyssparda&layout=compact&locale=pt-br&theme=radical" />
   </a>
 </div>
-
 
 ---
 
 ## ✨ Sobre mim
-- Transição pra TI vinda do varejo; hoje **lidero o CPD da minha filial** e toco automações internas.  
-- Curto resolver problema real com código simples e elegante: **JavaScript/Node**, **PHP**, **Shell**.  
-- No tempo livre, brinco de **home-lab** (netbook Acer V5-123 turbinado: de HDD 320GB para SSD 120GB, upgrade de 2GB para 8GB RAM, rodando Arch Linux RT com serviços como Zerotier-one, OpenSSH e Jellyfin, além da minha própria instância do [**FinancialBlobs**](https://github.com/kennyssparda/FinancialBlobs)).  
+- 🎓 Bacharelando em **Ciência da Computação** na Descomplica Faculdade Digital.
+- 🚀 Após minha transição do varejo para a TI, atualmente atuo como **Analista de Suporte N1** na **Revenda Mais (Grupo Webmotors)**.
+- 💡 Guiado pela filosofia do **Essencialismo** (fazer menos, mas melhor), busco resolver problemas reais com código simples, elegante e refatorações direto ao ponto usando **JavaScript/Node, PHP, Python e Shellscript**.
+- 🐧 No tempo livre, trabalho no meu **home-lab** (netbook Acer V5-123 AMD E1 de dois nucleos a incriveis 1 mhz de velocidade, SSD 120GB, 8GB RAM e rodando Arch Linux RT turbinado, Zerotier-one, Docker, OpenSSH e Jellyfin).
 
 ## 🚀 Agora
-- Refatorando o **FinancialBlobs** (dashboard financeiro com gráficos e filtros de período).
-- Evoluindo um sistema de **inventário/contagem** com histórico e auditoria.
+- Refatorando a documentação e arquitetura de sistemas com foco em eficiência e clareza.
+- Evoluindo o [**FinancialBlobs**](https://github.com/kennyssparda/FinancialBlobs) (dashboard financeiro com gráficos e filtros de período).
+
 
 ## 🧰 Toolbox
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="36" height="36"/>
@@ -44,15 +46,13 @@ Linux Expert • automações de TI • dashboards e inventário • mídia/stre
 
 - [**FinancialBlobs**](https://github.com/kennyssparda/FinancialBlobs) → Dashboard financeiro (Chart.js, filtros de período, cards dinâmicos).
 
-
 ## 💬 Como posso ajudar
-- **Desenvolvimento Fullstack**: APIs REST com Node/Express, MySQL e front-end responsivo em React/Bootstrap.  
-- **Automação e eficiência**: criação de scripts e serviços que reduzem tarefas repetitivas e aumentam produtividade.  
-- **Dashboards e dados**: visualização clara de métricas (Chart.js, filtros dinâmicos, relatórios) para tomada de decisão.  
-- **Integração de sistemas**: conectar ferramentas, unificar dados e simplificar processos internos.  
-- **Home-lab** como playground: simulação de cenários reais (Linux, serviços, streaming) para testar e validar ideias.  
+- **Desenvolvimento Fullstack**: Criação de APIs e sistemas web robustos utilizando Node/Express, PHP, Python, bancos SQL e front-end responsivo.
+- **Automação & Essencialismo**: Criação de scripts precisos que reduzem gargalos e tarefas repetitivas, mantendo o foco exclusivo no que gera valor real para o cliente.
+- **Infra e Home-lab**: Configuração de ambientes Linux, troubleshooting de redes e simulação de cenários complexos para validar ideias antes da produção.
 
 ## 📫 Contato
+<p>📍 <strong>Campo Largo / Curitiba, PR</strong></p>
 <a href="mailto:kennykysv@gmail.com">
   <img src="https://img.shields.io/badge/Email-222?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -62,4 +62,6 @@ Linux Expert • automações de TI • dashboards e inventário • mídia/stre
 <a href="https://wa.me/5541995101213">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-
+<a href="https://kennyvargas.vercel.app">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfólio" />
+</a>
